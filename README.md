@@ -13,6 +13,7 @@ If my work history interests you for some reason, you can find me on [LinkedIn](
 ### How to Reach Me
 
 Email: ian@knighton.dev
+
 Twitter: [ProbablyNotIan](https://twitter.com/ProbablyNotIan)
 
 
