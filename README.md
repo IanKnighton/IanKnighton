@@ -14,7 +14,7 @@ If my work history interests you for some reason, you can find me on [LinkedIn](
 
 Email: ian@knighton.dev
 
-Twitter: [ProbablyNotIan](https://twitter.com/ProbablyNotIan)
+Mastodon: [@probablynotian@tech.lgbt](https://tech.lgbt/@probablynotian)
 
 
 
