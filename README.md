@@ -1,22 +1,22 @@
-## ¡Hola y bienvenido!
+# About Me
 
-You've somehow ended up here, which means you're an incredibly lost traveler or you followed a link from somewhere. 
+👋 Hi there! I'm a Senior Platform Engineer at Deseret Digital Media, where I get to contribute to building innovative solutions and lead exciting projects. With a career spanning since 2007, I've had the pleasure of wearing many hats in the IT industry—from running cables to developing, deploying, and maintaining globally distributed cloud-native applications.
 
-### About Me 
+💻 I have a deep passion for coding and have honed my skills in technologies like .NET, GoLang, and JavaScript. I thrive on solving complex problems and enjoy working on projects that push the boundaries of technology.
 
-My name is Ian. I'm a .Net Developer with System Admin experience, which in 2020 means I work in DevOps/Site Reliability. I've been in the *IT Industry* since 2007. Primarily in ed-tech companies, but with some stints in government and consumer electronics. 
+⚽ Outside of tech, I'm equally passionate about soccer! I hold a USSF National C license and dedicate my time to coaching and developing players and coaches. Many of my personal projects revolve around the soccer world, combining my love for technology and sports.
 
-If my work history interests you for some reason, you can find me on [LinkedIn](https://www.linkedin.com/in/ianknighton1/).
+### Pronouns
 
-😄 Pronouns: He/Him/Él
+- He/Him
 
-### How to Reach Me
+### Contact
 
-Email: ian@knighton.dev
+- 📫 Reach out to me at: [ian@knighton.dev](mailto:ian@knighton.dev)
+- 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ianknighton1)
+- 🐘 Toot me on Mastodon: [@probablynotian@tech.lgbt](https://tech.lgbt/@probablynotian)
 
-Mastodon: [@probablynotian@tech.lgbt](https://tech.lgbt/@probablynotian)
-
-
+Feel free to check out my repositories to see what I’ve been working on, both in tech and in sports. Let’s collaborate and create something amazing together!
 
 <!--
 **IanKnighton/IanKnighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
